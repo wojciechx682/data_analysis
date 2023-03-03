@@ -19,6 +19,14 @@ numpy.py
 pandas.py
   
     The code demonstrates some basic functions of Pandas, such as mean(), concat(), and sort_values(). 
+    
+k_means.py
+
+  This is a Python code that performs the k-means clustering algorithm. It imports several libraries including numpy, pandas, scipy, matplotlib, math, decimal, and sklearn. The code defines a function ksrodki(X, k_number, a) which takes a 2D data array X, the number of clusters k_number, and a boolean value a that determines whether to show the plotted output.
+
+  The function first initializes k_number centroids randomly and calculates the Euclidean distance between each point in X and the centroids. It assigns each point to the closest centroid, forms k clusters, and computes the new centroid of each cluster. This process is repeated several times (15 times in this code).
+
+  The code then plots the clusters using matplotlib, with each cluster represented by a different color. The resulting plot is either shown or not depending on the value of the boolean parameter
 
 
 
