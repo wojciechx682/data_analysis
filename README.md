@@ -15,6 +15,10 @@ pca.py - principal component analysis, PCA
 numpy.py
   
     The code is a Python program that demonstrates the use of NumPy, a library for numerical computing in Python. It imports NumPy and random, and then creates and manipulates various arrays and matrices using NumPy functions and methods.
+    
+pandas.py
+  
+    The code demonstrates some basic functions of Pandas, such as mean(), concat(), and sort_values(). 
 
 
 
