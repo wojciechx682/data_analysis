@@ -11,3 +11,15 @@ pca.py - principal component analysis, PCA
     Uses the scikit-learn package
     Implements wiPCA() 
     Computes and visualizes wiPCA() function
+    
+numpy.py
+  
+    The code is a Python program that demonstrates the use of NumPy, a library for numerical computing in Python. It imports NumPy and random, and then creates and manipulates various arrays and matrices using NumPy functions and methods.
+
+
+
+
+
+
+
+
